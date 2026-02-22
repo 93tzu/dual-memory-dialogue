@@ -83,8 +83,7 @@ After execution, the following files are generated:
 ## Project Structure
 dual-memory-dialogue/
 │
-├── DualMemory_DailyDialog.ipynb
-├── README.md
+├── dual_memory_dialogue.ipynb
 │
 ├── results/
 │ ├── curve_accuracy.png
