@@ -2,6 +2,7 @@
 
 This project implements and evaluates a dual-memory (STM + LTM) framework for conversational recall.  
 The goal is to analyze how structured memory mechanisms affect accuracy and computational efficiency in multi-turn dialogue systems.
+Full technical report available in report.pdf
 
 ---
 
