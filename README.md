@@ -80,22 +80,6 @@ After execution, the following files are generated:
 
 ---
 
-## Project Structure
-dual-memory-dialogue/
-│
-├── dual_memory_dialogue.ipynb
-│
-├── results/
-│ ├── curve_accuracy.png
-│ ├── curve_cost.png
-│ ├── curve_efficiency.png
-│ ├── curve_results.csv
-│ └── results_dualmemory.csv
-
-
-
----
-
 ## Key Concepts
 
 - Short-Term Memory (STM)
