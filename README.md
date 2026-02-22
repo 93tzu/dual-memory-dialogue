@@ -53,10 +53,10 @@ The framework is evaluated across multiple context lengths (k = 2,4,6,8,10,12) u
 
 ### Interpretation
 
-- DualMemory maintains competitive accuracy while enabling structured memory retrieval.
-- Retrieval introduces additional computational cost but remains stable.
-- Token efficiency decreases as context grows, highlighting the trade-off between memory size and efficiency.
-- Structured memory allows targeted retrieval instead of brute-force context expansion.
+DualMemory achieves comparable or slightly improved accuracy relative to the sliding-window baseline across different context lengths.
+Although retrieval introduces additional computational overhead, the cost increases initially but then plateaus, remaining relatively stable as context length grows.
+Token efficiency decreases as context length increases for both methods, illustrating the trade-off between context expansion and computational efficiency.
+These results suggest that structured memory modeling provides a viable alternative to simply enlarging the context window.
 
 ---
 
