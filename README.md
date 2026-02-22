@@ -2,7 +2,6 @@
 
 This project implements and evaluates a dual-memory (STM + LTM) framework for conversational recall.  
 The goal is to analyze how structured memory mechanisms affect accuracy and computational efficiency in multi-turn dialogue systems.
-Full technical report available in report.pdf
 
 ---
 
@@ -27,6 +26,12 @@ The system evaluates recall performance using the DailyDialog dataset.
 The dataset is automatically downloaded inside the notebook using `gdown`.
 
 No manual upload is required.
+
+The dataset version used in this implementation is obtained from Kaggle:
+
+https://www.kaggle.com/datasets/thedevastator/dailydialog-multi-turn-dialog-with-intention-and/data
+
+License: CC0 1.0 Universal (Public Domain).
 
 ---
 
